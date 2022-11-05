@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">quiz-app</string>
+
+    <string name="question1">1.Which extension is used to save kotlin file?</string>
+    <string name="question2">2.Which of the following is used to handle null exception in kotlin?</string>
+
+    <string name="q1_option1">Range</string>
+    <string name="q1_option2">Elvis operator</string>
+    <string name="q1_option3">Lambda function</string>
+
+    <string name="q2_option1">.kt</string>
+    <string name="q2_option2">.kts</string>
+    <string name="q2_option3">.java</string>
+
+    <string name="submit">Submit</string>
+    <string name="reset">Reset</string>
+
+    <string name="heading">Each question carries 50 points</string>
+</resources>
